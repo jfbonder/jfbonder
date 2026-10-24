@@ -8,7 +8,7 @@ problems in Orlicz–Sobolev spaces, fractional operators, shape optimization,
 and eigenvalue problems for quasilinear operators. Lately I have also been
 working on numerical methods and PINNs for these problems.
 
-**Website:** [jfbonder.github.io](https://jfbonder.github.io) — publications, teaching, and links to
+**Website:** [https://mate.dm.uba.ar/~jfbonder/index.html](https://mate.dm.uba.ar/~jfbonder/index.html) — publications, teaching, and links to
 Google Scholar, arXiv, MathSciNet, ORCID and zbMATH.
 
 **Contact:** [jfbonder@dm.uba.ar](mailto:jfbonder@dm.uba.ar)
