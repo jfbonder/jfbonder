@@ -15,7 +15,7 @@ Google Scholar, arXiv, MathSciNet, ORCID and zbMATH.
 
 ## Research code
 
-- [pxlaplace](https://github.com/jfbonder/pxlaplace) — Python solver for the p(x)-Laplacian on general 2D domains.
+- [pxlaplace](https://github.com/jfbonder/pxlaplace) — Python solver for the p(x)-Laplacian on general 2D domains (with A. Aragón and D. Rubio).
 - [PINN-eigenvalues-v2](https://github.com/jfbonder/PINN-eigenvalues-v2) — PINNs for eigenvalues in elliptic problems (with A. Salort).
 - [universe25-abm](https://github.com/jfbonder/universe25-abm) — agent-based model for the social collapse in Calhoun's Universe 25 experiment.
 
