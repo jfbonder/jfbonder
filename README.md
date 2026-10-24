@@ -21,6 +21,6 @@ Google Scholar, arXiv, MathSciNet, ORCID and zbMATH.
 
 ## Course material
 
-- [transporte-optimo](https://github.com/jfbonder/transporte-optimo) — Optimal Transport (FCEN-UBA).
+- [transporte-optimo](https://github.com/jfbonder/transporte-optimo) — Optimal Transport Theory (FCEN-UBA).
 - [fundamentos-aprendizaje-profundo](https://github.com/jfbonder/fundamentos-aprendizaje-profundo) — Mathematical foundations of deep learning (FCEN-UBA).
 - [imc](https://github.com/jfbonder/imc) — Introduction to Continuous Modeling (FCEN-UBA).
