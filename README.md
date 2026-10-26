@@ -1,6 +1,6 @@
 # Julián Fernández Bonder
 
-Professor at the Department of Mathematics, Universidad de Buenos Aires (FCEN),
+I'm a professor at the Department of Mathematics, Universidad de Buenos Aires (FCEN),
 and Principal Researcher at CONICET, based at the Instituto de Cálculo.
 
 My research focuses on nonlinear and nonlocal elliptic-type equations:
